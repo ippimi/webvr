@@ -1,0 +1,1156 @@
+# Blender3D MTL File: vaunu_lowpoly_150.blend
+# Material Count: 105
+newmtl laattalamppu_kromi_ao_seinaesineet.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_seinaesineet
+
+
+newmtl sinitapetti_ao_runko.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_runko.png
+
+
+newmtl ik_kromilista_ao_ikkunat.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_ikkunat.png
+
+
+newmtl kromilista_ao_runko.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_runko.png
+
+
+newmtl hk_kromi_ao_hyttikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_hyttikalut.png
+
+
+newmtl tuolinauha_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.261297 0.261297 0.261297
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl seinaruuvi_ao_seinaesineet2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.725405 0.725405 0.725405
+Ks 0.320973 0.320973 0.320973
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Untitled
+
+
+newmtl laattalamppu_ao_seinaesineet.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_seinaesineet
+
+
+newmtl seinatuoli_siniputki_ao_salonkikalut.png
+Ns 5.882353
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.199263 0.199263 0.199263
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl seinatuoli_puu_ao_salonkikalut.png
+Ns 170.588235
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.349631 0.349631 0.349631
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl seinatuoli_punaputki_ao_salonkikalut.png
+Ns 5.882353
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.078968 0.078968 0.078968
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl lakkalista_ao_runko.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_runko.png
+
+
+newmtl hk_puulista_ao_hyttikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_hyttikalut.png
+
+
+newmtl seinakangas_ao_runko.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ao_runko.png
+
+
+newmtl ik_verho_ao_ikkunat.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ao_ikkunat.png
+
+
+newmtl ovilistat_ao_ovi_matto.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_ovi_matto.png
+
+
+newmtl patteri_kahva_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl tuolikangas_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl pm_painemittarit_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.289440 0.289440 0.289440
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl hk_seinakangas_ao_hyttikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_hyttikalut.png
+
+
+newmtl isomattohapsut_ao_ovi_matto.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_ovi_matto.png
+
+
+newmtl hyttimatto_ao_ovi_matto.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_ovi_matto.png
+
+
+newmtl kytkinlaatta_ao_seinaesineet.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_seinaesineet
+
+
+newmtl pm_jalka_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl siniputki_ao_wc_putket.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_wc_putket.png
+
+
+newmtl wc_varattu_ao_seinaesineet.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_seinaesineet
+
+
+newmtl venttiili_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl verhot_ao_seinaesineet2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Untitled
+
+
+newmtl tuolipuu_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl pm_mustametalli_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl nappula_ao_seinaesineet.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_seinaesineet
+
+
+newmtl seinatuoli_kangas_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ao_salonkikalut.png
+
+
+newmtl valkoseina_ao_katto.png
+Ns 45.098039
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.040000 0.040000 0.040000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_katto.png
+
+
+newmtl kattovalo_raita_ao_seinaesineet2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Untitled
+
+
+newmtl pm_kulta_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl ik_lakkalista_ao_ikkunat.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_ikkunat.png
+
+
+newmtl hk_punajalka_ao_hyttikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_hyttikalut.png
+
+
+newmtl wc_siniputki_ao_wc_putket.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_wc_putket.png
+
+
+newmtl wc_valkoputki_ao_wc_putket.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_wc_putket.png
+
+
+newmtl krominaulakko_ao_seinaesineet.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_seinaesineet
+
+
+newmtl seinatuoli_nauha_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ao_salonkikalut.png
+
+
+newmtl punalattia_ao_lattia.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.234228 0.234228 0.234228
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_lattia.png
+
+
+newmtl kattokanta_lampmessinki_ref.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lampmessinki_ref.png
+
+
+newmtl hk_lakkalista_ao_hyttikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_hyttikalut.png
+
+
+newmtl seinaraita_ao_runko.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_runko.png
+
+
+newmtl sinimaali_ao_runko.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_runko.png
+
+
+newmtl hk_tuolikangas_ao_hyttikalut.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ao_hyttikalut.png
+
+
+newmtl ruskseina_ao_runko.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.206711 0.206711 0.206711
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_runko.png
+
+
+newmtl kaytavamatto_ao_ovi_matto.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.770307 0.770307 0.770307
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ao_ovi_matto.png
+
+
+newmtl sinilasi_sinilamppu.png
+Ns 141.176471
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.588591 0.588591 0.588591
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd sinilamppu.png
+
+
+newmtl lamppulasi_lasi_ref.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lasi_ref.png
+
+
+newmtl hattuhylly_metalli_ao_hattuhyllyt.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_hattuhyllyt.png
+
+
+newmtl tuhkis_lasi_ao_seinaesineet.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_seinaesineet
+
+
+newmtl kattovalo_lasi_ao_seinaesineet2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Untitled
+
+
+newmtl sinipatteri_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl hatajarru_valkolista_ao_seinaesineet.png
+Ns 52.941176
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.035000 0.035000 0.035000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_seinaesineet
+
+
+newmtl wc_puu_ao_wc_putket.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_wc_putket.png
+
+
+newmtl valkoputki_ao_wc_putket.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_wc_putket.png
+
+
+newmtl helmiainen_ao_seinaesineet2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Untitled
+
+
+newmtl puukyltti_ao_seinaesineet2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Untitled
+
+
+newmtl salonkikytkin_ao_seinaesineet2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.725405 0.725405 0.725405
+Ks 0.320973 0.320973 0.320973
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Untitled
+
+
+newmtl punaputki_ao_wc_putket.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_wc_putket.png
+
+
+newmtl hyttikytkin_ao_seinaesineet2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Untitled
+
+
+newmtl valkoreika_ao_katto.png
+Ns 52.941176
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.035000 0.035000 0.035000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_katto.png
+
+
+newmtl ovipuu_ao_ovi_matto.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_ovi_matto.png
+
+
+newmtl ovimessinki_ao_ovi_matto.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_ovi_matto.png
+
+
+newmtl hatajarru_ao_seinaesineet.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.725405 0.725405 0.725405
+Ks 0.320973 0.320973 0.320973
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_seinaesineet
+
+
+newmtl kynnysrauta_ao_runko.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.322819 0.322819 0.322819
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_runko.png
+
+
+newmtl isomatto_ao_ovi_matto.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ao_ovi_matto.png
+
+
+newmtl seinakiinnike_ao_seinaesineet2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Untitled
+
+
+newmtl lampomittari_ao_seinaesineet.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.725405 0.725405 0.725405
+Ks 0.320973 0.320973 0.320973
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_seinaesineet
+
+
+newmtl ruskraita_ao_runko.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_runko.png
+
+
+newmtl tuhkis_puu_ao_seinaesineet.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_seinaesineet
+
+
+newmtl patteri_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl wc_lakkalistat_ao_wc_putket.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_wc_putket.png
+
+
+newmtl hattuhylly_verkko_ao_hattuhyllyt.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_hattuhyllyt.png
+
+
+newmtl hk_viherkangas_ao_hyttikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ao_hyttikalut.png
+
+
+newmtl kyltit_seinaesineet.png
+Ns 141.176471
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd seinaesineet.png
+
+
+newmtl ovitakasale_ao_ovi_matto.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_ovi_matto.png
+
+
+newmtl seinakoriste_ao_seinaesineet2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Untitled
+
+
+newmtl tuhkis_kromi_ao_seinaesineet.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_seinaesineet
+
+
+newmtl kierrejohto_kierrejohto.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd kierrejohto.png
+
+
+newmtl kattovalo_kulta_ao_seinaesineet2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Untitled
+
+
+newmtl wc_posliini_ao_wc_putket.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_wc_putket.png
+
+
+newmtl ik_ulkopuuosat_ao_ikkunat.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_ikkunat.png
+
+
+newmtl wc_ruskmetalli_ao_wc_putket.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_wc_putket.png
+
+
+newmtl pm_lakkapuu_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl pm_kromi_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl hk_kaappitaso_ao_hyttikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.078880 0.078880 0.078880
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_hyttikalut.png
+
+
+newmtl hk_kromilista_ao_hyttikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_hyttikalut.png
+
+
+newmtl punapatteri_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl seinalamppu_ao_seinaesineet2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Untitled
+
+
+newmtl hk_puu_ao_hyttikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_hyttikalut.png
+
+
+newmtl kattokantatappi_lampmessinki_ref.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lampmessinki_ref.png
+
+
+newmtl kattovalo_ornamentti_ao_seinaesineet2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Untitled
+
+
+newmtl venttiili_musta_ao_salonkikalut.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd ao_salonkikalut.png
+
+
+newmtl paine_viisarit_ao_salonkikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.108960 0.108960 0.108960
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_salonkikalut.png
+
+
+newmtl hk_kulta_ao_hyttikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_hyttikalut.png
+
+
+newmtl wc_kromilista_ao_wc_putket.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_wc_putket.png
+
+
+newmtl punasarana_punasarana.png
+Ns 247.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.319520 0.319520 0.319520
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd punasarana.png
+
+
+newmtl peili
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+
+newmtl valkolista_ao_katto.png
+Ns 52.941176
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.035000 0.035000 0.035000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_katto.png
+
+
+newmtl hk_ruuvi_ao_hyttikalut.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ao_hyttikalut.png
+
+
+newmtl suoralasi_painelasi.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd painelasi.png
+
+
+newmtl salonkikytkinnuppi_ao_seinaesineet2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.725405 0.725405 0.725405
+Ks 0.320973 0.320973 0.320973
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Untitled
+
+
