@@ -7,21 +7,17 @@
   </head>
   <body>
     <a-scene>
-  <a-box hoverable grabbable stretchable draggable dropppable color="blue" position="-28 3 -7"></a-box>
+  <a-box hoverable grabbable stretchable draggable dropppable color="blue" position="-28 2 -7"></a-box>
+      
+      <a-sphere hoverable grabbable stretchable draggable dropppable color="red" position="-28 2 -10"></a-box>
       <a-entity id="rig" movement-controls="constrainToNavMesh: true">
         <a-entity
           camera
           position="-5 3 0"
           look-controls="pointerLockEnabled: true"
         ></a-entity>
-         <a-entity sphere-collider="objects: a-box" super-hands hand-controls="hand: left"    "colliderEvent: raycaster-intersection;
-             colliderEventProperty: els;
-             colliderEndEvent: raycaster-intersection-cleared;
-             colliderEndEventProperty: clearedEls"></a-entity>
-      <a-entity sphere-collider="objects: a-box" super-hands hand-controls="hand: right"    "colliderEvent: raycaster-intersection;
-             colliderEventProperty: els;
-             colliderEndEvent: raycaster-intersection-cleared;
-             colliderEndEventProperty: clearedEls"></a-entity>
+         <a-entity sphere-collider="objects: a-box" super-hands hand-controls="hand: left"></a-entity>
+      <a-entity sphere-collider="objects: a-box" super-hands hand-controls="hand: right"></a-entity>
      
       </a-entity>
         <a-assets>
