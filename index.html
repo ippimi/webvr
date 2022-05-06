@@ -6,22 +6,15 @@
   </head>
   <body>
     <a-scene>
+      <a-entity oculus-go-controls="hand: left"></a-entity>
+<a-entity oculus-go-controls="hand: right"></a-entity>
       <a-entity id="rig" movement-controls="constrainToNavMesh: true">
         <a-entity
           camera
           position="-5 3 0"
           look-controls="pointerLockEnabled: true"
         ></a-entity>
-        <a-entity
-          hand-controls="hand: left"
-          laser-controls="hand: left"
-          raycaster="objects: *"
-        ></a-entity>
-        <a-entity
-          hand-controls="hand: right"
-          laser-controls="hand: right"
-          raycaster="objects: *"
-        ></a-entity>
+        
       </a-entity>
         <a-assets>
     <a-asset-item id="tree" src="marskivaunuoptimoitu.glb"></a-asset-item>
