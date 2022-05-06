@@ -7,7 +7,7 @@
   </head>
   <body>
     <a-scene>
-  
+  <a-box hoverable grabbable stretchable draggable dropppable color="blue" position="-28 -3 -7"></a-box>
       <a-entity id="rig" movement-controls="constrainToNavMesh: true">
         <a-entity
           camera
@@ -16,23 +16,14 @@
         ></a-entity>
          <a-entity sphere-collider="objects: a-box" super-hands hand-controls="hand: left"></a-entity>
       <a-entity sphere-collider="objects: a-box" super-hands hand-controls="hand: right"></a-entity>
-        <a-entity
-          hand-controls="hand: left"
-          laser-controls="hand: left"
-          raycaster="objects: *"
-        ></a-entity>
-        <a-entity
-          hand-controls="hand: right"
-          laser-controls="hand: right"
-          raycaster="objects: *"
-        ></a-entity>
+        
       </a-entity>
         <a-assets>
     <a-asset-item id="tree" src="marskivaunuoptimoitu.glb"></a-asset-item>
   </a-assets>
 
   <a-entity gltf-model="#tree" position="-28 -4 -9"></a-entity>
-       <a-box hoverable grabbable stretchable draggable dropppable color="blue" position="-28 -3 -7"></a-box>
+       
       <a-sky color="#ECECEC"></a-sky>
     </a-scene>
   </body>
