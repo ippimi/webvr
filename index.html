@@ -9,14 +9,15 @@
   <body>
     <a-scene>
   <a-box class="box" hoverable grabbable stretchable draggable dropppable color="blue" position="-28 2 -7"></a-box>
-           <a-entity id="rig">
-  <a-entity camera
-            position="-5 3 0"
-            
-  </a-entity>
+           
       <a-sphere class="box" hoverable grabbable stretchable draggable dropppable color="red" position="-28 2 -4"></a-sphere>
-   
-</a-entity>
+   <a-entity id="rig" movement-controls="constrainToNavMesh: false">
+        <a-entity
+          camera
+          position="-5 3 0"
+          look-controls="pointerLockEnabled: true"
+        ></a-entity>
+
          <a-entity sphere-collider="objects: .box" super-hands hand-controls="hand: left"></a-entity>
       <a-entity sphere-collider="objects: .box" super-hands hand-controls="hand: right"></a-entity>
      
